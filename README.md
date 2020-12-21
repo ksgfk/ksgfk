@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-蒟蒻💪
+我是傻逼，我不配
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksgfk&layout=compact)
 
