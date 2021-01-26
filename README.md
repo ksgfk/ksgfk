@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-我是傻逼，我不配
+Stay hungry.Stay foolish.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksgfk&layout=compact)
 
