@@ -7,7 +7,7 @@ A student
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksgfk&layout=compact&hide=css,html" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksgfk&layout=compact&langs_count=10&hide=css,html" alt="Top Langs">
 </p>
 
 <p align="center">
